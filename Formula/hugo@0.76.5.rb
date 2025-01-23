@@ -37,3 +37,4 @@ class Hugo < Formula
       prefix.install_metafiles
     end
   end
+end
